@@ -1,0 +1,19 @@
+{
+    "name": "ultradevs/sticky-list",
+    "description": "StickyList",
+    "authors": [
+        {
+            "name": "mhimon",
+            "email": "mahbubhasanimon@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "ultraDevs\\SL\\": "includes/"
+        },
+        "files": [ "includes/functions.php" ]
+    }
+}
